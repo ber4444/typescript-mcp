@@ -34,6 +34,7 @@ npm install
   - `npm publish`
   - results: https://www.npmjs.com/package/gaborb-binancemcp
   - the mcp will still run locally when using npmjs, but it will be downloaded
+  - remotely running MCPs would mean going along the lines of https://github.com/cloudflare/ai/tree/main/demos/remote-mcp-auth0
 
 ## Tools, resources
 
